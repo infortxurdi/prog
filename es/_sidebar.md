@@ -1,20 +1,22 @@
-* 🌐 **[Euskara](#/eu/)**
+* **<img src="es.png" width="20" height="20" style="vertical-align: middle; margin-right: 5px;"> Castellano**
+  * [<img src="eus.png" width="20" height="20" style="vertical-align: middle; margin-right: 5px;"> Euskara](/eu/)
 
-* **Hasiera**
-  * [Ongietorria](README.md)
 
-* **1. Gaia: Scanner**
-  * [Teoria](1_gaia_scanner/teoria.md)
-  * [Ariketak](1_gaia_scanner/ariketak.md)
+* **Inicio**
+  * [Bienvenida](es/README.md)
 
-* **2. Gaia: Kontrol-egiturak**
-  * [Teoria](2_gaia_kontrol_egiturak/teoria.md)
-  * [Ariketak](2_gaia_kontrol_egiturak/ariketak.md)
+* **Tema 1: Scanner**
+  * [Teoria](es/1_scanner/teoria.md)
+  * [Ariketak](es/1_scanner/ariketak.md)
 
-* **3. Gaia: Metodoak**
-  * [Teoria](3_gaia_metodoak/teoria.md)
-  * [Ariketak](3_gaia_metodoak/ariketak.md)
+* **Tema 2: Sistemas de control**
+  * [Teoria](./es/2_estructuras_control/teoria.md)
+  * [Ariketak](./es/2_estructuras_control/ariketak.md)
 
-* **4. Gaia: Listak**
-  * [Teoria](4_gaia_listak/teoria.md)
-  * [Ariketak](4_gaia_listak/ariketak.md)
+* **Tema 3: Métodos**
+  * [Teoria](./es/3_metodos/teoria.md)
+  * [Ariketak](./es/3_metodos/ariketak.md)
+
+* **Tema 4: Listas**
+  * [Teoria](./es/4_listas/teoria.md)
+  * [Ariketak](./es/4_listas/ariketak.md)

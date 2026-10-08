@@ -28,10 +28,16 @@
             subMaxLevel: 2,
             sidebarDisplayLevel: 0,
 
+            alias: {
+                '/eu/(.*)/_sidebar.md': '/eu/_sidebar.md',
+                '/es/(.*)/_sidebar.md': '/es/_sidebar.md'
+            },
+            
             // Idioma de respaldo si la ruta no existe
             fallbackLanguages: ['eu'],
 
             // Enlace del logo/nombre según el idioma
+
             nameLink: {
                 '/es/': '#/es/',
                 '/eu/': '#/eu/',

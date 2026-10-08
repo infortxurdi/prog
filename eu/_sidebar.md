@@ -1,20 +1,21 @@
-* 🌐 **[Gaztelania / Castellano](#/es/)**
+* **<img src="eus.png" width="20" height="20" style="vertical-align: middle; margin-right: 5px;"> Euskara**
+  * [<img src="es.png" width="20" height="20" style="vertical-align: middle; margin-right: 5px;"> Gaztelania](/es/)
 
 * **Hasiera**
-  * [Ongietorria](README.md)
+  * [Ongietorria](eu/README.md)
 
 * **1. Gaia: Scanner**
-  * [Teoria](1_gaia_scanner/teoria.md)
-  * [Ariketak](1_gaia_scanner/ariketak.md)
+  * [Teoria](eu/1_scanner/teoria.md)
+  * [Ariketak](eu/1_scanner/ariketak.md)
 
 * **2. Gaia: Kontrol-egiturak**
-  * [Teoria](2_gaia_kontrol_egiturak/teoria.md)
-  * [Ariketak](2_gaia_kontrol_egiturak/ariketak.md)
+  * [Teoria](eu/2_kontrol_egiturak/teoria.md)
+  * [Ariketak](eu/2_kontrol_egiturak/ariketak.md)
 
 * **3. Gaia: Metodoak**
-  * [Teoria](3_gaia_metodoak/teoria.md)
-  * [Ariketak](3_gaia_metodoak/ariketak.md)
+  * [Teoria](eu/3_metodoak/teoria.md)
+  * [Ariketak](eu/3_metodoak/ariketak.md)
 
 * **4. Gaia: Listak**
-  * [Teoria](4_gaia_listak/teoria.md)
-  * [Ariketak](4_gaia_listak/ariketak.md)
+  * [Teoria](eu/4_listak/teoria.md)
+  * [Ariketak](eu/4_listak/ariketak.md)
