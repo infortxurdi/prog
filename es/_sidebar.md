@@ -1,3 +1,5 @@
+* 🌐 **[Euskara](#/eu/)**
+
 * **Hasiera**
   * [Ongietorria](README.md)
 
