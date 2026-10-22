@@ -1,0 +1,15 @@
+Genera una archivo markdown descargable siguiendo las siguientes instrucciones:
+
+Actúa como un profesor experto de programación y genera una hoja de ejercicios en Markdown siguiendo estrictamente la estructura, el tono y el formato visual del siguiente ejemplo:
+
+1. **Cabecera principal:** Utiliza un título principal de nivel 1 con el formato `# [Materia] — [Tema/Unidad]: Ejercicios`.
+2. **Separadores:** Utiliza líneas divisorias (`---`) para separar cada bloque temático principal.
+3. **Bloques temáticos:** Cada bloque debe comenzar con un encabezado de nivel 2 con la estructura `## Bloque [N] — [Título del bloque] ([Detalles o tecnologías clave])`.
+4. **Objetivo del bloque:** Justo debajo del título de cada bloque, añade una línea en negrita indicando el propósito: `**Objetivo:** [Descripción clara y concisa].`
+5. **Listas de ejercicios:** Numera los ejercicios secuencialmente (`1. `, `2. `, etc.). Los enunciados deben ser prácticos, directos y claros.
+6. **Bloques de código:** Cuando se incluyan fragmentos de código o ejemplos de terminal/consola, utilízalos dentro de bloques de código Markdown con su respectivo lenguaje (por ejemplo, ```java o ```text).
+7. **Fórmulas matemáticas:** Si se requiere incluir expresiones matemáticas o fórmulas, escríbelas utilizando notación LaTeX en línea ($...$) o en bloque ($$...$$).
+8. **Notas y advertencias:** Cuando quieras añadir notas aclaratorias al final de un bloque, utiliza un blockquote con el símbolo de nota: `> ➔ **Nota:** [Texto de la nota].`
+
+---
+[Aquí describes el contenido, tema, lenguaje de programación y los bloques específicos que quieres que contenga tu nueva hoja de ejercicios].

@@ -1,0 +1,14 @@
+Genera una archivo markdown descargable siguiendo las siguientes instrucciones:
+
+Actúa como un profesor experto de programación y genera un documento de apuntes teóricos en Markdown siguiendo estrictamente la estructura, el tono y el formato visual del siguiente ejemplo:
+
+1. **Cabecera principal:** Utiliza un título de nivel 1 con el formato `# Teoria - [N]. Gaia: [Título de la unidad]` seguido de una breve frase introductoria que resuma el objetivo del documento.
+2. **Separadores:** Utiliza líneas divisorias (`---`) para separar las secciones principales.
+3. **Secciones numeradas:** Cada sección teórica principal debe comenzar con un encabezado de nivel 2 estructurado como `## [N]. [Título de la sección]`.
+4. **Listas y viñetas:** Utiliza viñetas (`- `) combinadas con negritas para destacar los conceptos clave (ej. `- **Concepto:** Explicación o definición`).
+5. **Bloques de código:** Incluye ejemplos de código limpios dentro de bloques de código Markdown con su respectivo lenguaje (ej. ```java).
+6. **Tablas estructuradas:** Utiliza tablas en Markdown para organizar datos comparativos, tipos, valores predeterminados o tablas de operadores y precedencia.
+7. **Notas y avisos:** Utiliza bloques de cita (`> **Oharra:** [Texto]`) para destacar notas importantes, restricciones o aclaraciones relevantes.
+
+---
+[Aquí describes el tema teórico, el idioma —por ejemplo, euskera o castellano—, el lenguaje de programación y los apartados específicos que quieres que desarrolle el modelo].

@@ -5,7 +5,7 @@
   * [Ongietorria](eu/README.md)
 
 * **1. Gaia: Scanner**
-  * [Teoria](eu/1_scanner/teoria.md)
+  * [Teoria: Scanner](eu/1_scanner/teoria.md)
   * [Ariketak](eu/1_scanner/ariketak.md)
 
 * **2. Gaia: Kontrol-egiturak**
@@ -19,3 +19,7 @@
 * **4. Gaia: Listak**
   * [Teoria](eu/4_listak/teoria.md)
   * [Ariketak](eu/4_listak/ariketak.md)
+
+* **5. Gaia: POO**
+  * [Teoria](eu/5_OOP/teoria.md)
+  * [Ariketak](eu/5_OOP/ariketak.md)
